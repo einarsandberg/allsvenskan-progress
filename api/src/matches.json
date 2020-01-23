@@ -1,0 +1,1442 @@
+[
+    {
+        "awayGoals": "0",
+        "homeTeam": "Falkenbergs FF",
+        "homeGoals": "1",
+        "awayTeam": "Örebro"
+    },
+    {
+        "awayGoals": "2",
+        "homeTeam": "Kalmar FF",
+        "homeGoals": "0",
+        "awayTeam": "IK Sirius FK"
+    },
+    {
+        "awayGoals": "0",
+        "homeTeam": "AIK",
+        "homeGoals": "0",
+        "awayTeam": "Östersund"
+    },
+    {
+        "awayGoals": "1",
+        "homeTeam": "Helsingborgs IF",
+        "homeGoals": "3",
+        "awayTeam": "IFK Norrköping FK"
+    },
+    {
+        "awayGoals": "1",
+        "homeTeam": "Athletic Eskilstuna",
+        "homeGoals": "3",
+        "awayTeam": "IFK Göteborg"
+    },
+    {
+        "awayGoals": "1",
+        "homeTeam": "IF Elfsborg",
+        "homeGoals": "1",
+        "awayTeam": "Hammarby"
+    },
+    {
+        "awayGoals": "1",
+        "homeTeam": "Malmö FF",
+        "homeGoals": "1",
+        "awayTeam": "BK Häcken"
+    },
+    {
+        "awayGoals": "2",
+        "homeTeam": "Djurgården",
+        "homeGoals": "2",
+        "awayTeam": "GIF Sundsvall"
+    },
+    {
+        "awayGoals": "1",
+        "homeTeam": "GIF Sundsvall",
+        "homeGoals": "3",
+        "awayTeam": "Malmö FF"
+    },
+    {
+        "awayGoals": "1",
+        "homeTeam": "BK Häcken",
+        "homeGoals": "2",
+        "awayTeam": "Helsingborgs IF"
+    },
+    {
+        "awayGoals": "2",
+        "homeTeam": "Östersund",
+        "homeGoals": "3",
+        "awayTeam": "Falkenbergs FF"
+    },
+    {
+        "awayGoals": "0",
+        "homeTeam": "IFK Göteborg",
+        "homeGoals": "3",
+        "awayTeam": "IF Elfsborg"
+    },
+    {
+        "awayGoals": "1",
+        "homeTeam": "Hammarby",
+        "homeGoals": "1",
+        "awayTeam": "Kalmar FF"
+    },
+    {
+        "awayGoals": "3",
+        "homeTeam": "Örebro",
+        "homeGoals": "0",
+        "awayTeam": "Djurgården"
+    },
+    {
+        "awayGoals": "0",
+        "homeTeam": "IFK Norrköping FK",
+        "homeGoals": "0",
+        "awayTeam": "AIK"
+    },
+    {
+        "awayGoals": "2",
+        "homeTeam": "IK Sirius FK",
+        "homeGoals": "3",
+        "awayTeam": "Athletic Eskilstuna"
+    },
+    {
+        "awayGoals": "1",
+        "homeTeam": "Athletic Eskilstuna",
+        "homeGoals": "1",
+        "awayTeam": "Örebro"
+    },
+    {
+        "awayGoals": "3",
+        "homeTeam": "Falkenbergs FF",
+        "homeGoals": "0",
+        "awayTeam": "BK Häcken"
+    },
+    {
+        "awayGoals": "2",
+        "homeTeam": "Kalmar FF",
+        "homeGoals": "2",
+        "awayTeam": "IFK Norrköping FK"
+    },
+    {
+        "awayGoals": "1",
+        "homeTeam": "IF Elfsborg",
+        "homeGoals": "3",
+        "awayTeam": "GIF Sundsvall"
+    },
+    {
+        "awayGoals": "1",
+        "homeTeam": "AIK",
+        "homeGoals": "2",
+        "awayTeam": "IK Sirius FK"
+    },
+    {
+        "awayGoals": "0",
+        "homeTeam": "Malmö FF",
+        "homeGoals": "2",
+        "awayTeam": "Östersund"
+    },
+    {
+        "awayGoals": "1",
+        "homeTeam": "Helsingborgs IF",
+        "homeGoals": "2",
+        "awayTeam": "Hammarby"
+    },
+    {
+        "awayGoals": "1",
+        "homeTeam": "Djurgården",
+        "homeGoals": "2",
+        "awayTeam": "IFK Göteborg"
+    },
+    {
+        "awayGoals": "1",
+        "homeTeam": "Östersund",
+        "homeGoals": "1",
+        "awayTeam": "IF Elfsborg"
+    },
+    {
+        "awayGoals": "1",
+        "homeTeam": "Örebro",
+        "homeGoals": "2",
+        "awayTeam": "AIK"
+    },
+    {
+        "awayGoals": "3",
+        "homeTeam": "IFK Norrköping FK",
+        "homeGoals": "4",
+        "awayTeam": "Falkenbergs FF"
+    },
+    {
+        "awayGoals": "2",
+        "homeTeam": "GIF Sundsvall",
+        "homeGoals": "1",
+        "awayTeam": "Kalmar FF"
+    },
+    {
+        "awayGoals": "1",
+        "homeTeam": "IK Sirius FK",
+        "homeGoals": "0",
+        "awayTeam": "Malmö FF"
+    },
+    {
+        "awayGoals": "1",
+        "homeTeam": "BK Häcken",
+        "homeGoals": "0",
+        "awayTeam": "Djurgården"
+    },
+    {
+        "awayGoals": "1",
+        "homeTeam": "Hammarby",
+        "homeGoals": "3",
+        "awayTeam": "Athletic Eskilstuna"
+    },
+    {
+        "awayGoals": "1",
+        "homeTeam": "IFK Göteborg",
+        "homeGoals": "3",
+        "awayTeam": "Helsingborgs IF"
+    },
+    {
+        "awayGoals": "2",
+        "homeTeam": "IF Elfsborg",
+        "homeGoals": "4",
+        "awayTeam": "Örebro"
+    },
+    {
+        "awayGoals": "0",
+        "homeTeam": "Falkenbergs FF",
+        "homeGoals": "0",
+        "awayTeam": "IK Sirius FK"
+    },
+    {
+        "awayGoals": "1",
+        "homeTeam": "Malmö FF",
+        "homeGoals": "4",
+        "awayTeam": "Hammarby"
+    },
+    {
+        "awayGoals": "0",
+        "homeTeam": "AIK",
+        "homeGoals": "1",
+        "awayTeam": "BK Häcken"
+    },
+    {
+        "awayGoals": "1",
+        "homeTeam": "Athletic Eskilstuna",
+        "homeGoals": "0",
+        "awayTeam": "Östersund"
+    },
+    {
+        "awayGoals": "1",
+        "homeTeam": "Djurgården",
+        "homeGoals": "1",
+        "awayTeam": "IFK Norrköping FK"
+    },
+    {
+        "awayGoals": "1",
+        "homeTeam": "Helsingborgs IF",
+        "homeGoals": "1",
+        "awayTeam": "GIF Sundsvall"
+    },
+    {
+        "awayGoals": "1",
+        "homeTeam": "Kalmar FF",
+        "homeGoals": "1",
+        "awayTeam": "IFK Göteborg"
+    },
+    {
+        "awayGoals": "4",
+        "homeTeam": "IK Sirius FK",
+        "homeGoals": "2",
+        "awayTeam": "IF Elfsborg"
+    },
+    {
+        "awayGoals": "1",
+        "homeTeam": "Hammarby",
+        "homeGoals": "2",
+        "awayTeam": "Djurgården"
+    },
+    {
+        "awayGoals": "0",
+        "homeTeam": "BK Häcken",
+        "homeGoals": "3",
+        "awayTeam": "Athletic Eskilstuna"
+    },
+    {
+        "awayGoals": "1",
+        "homeTeam": "IFK Norrköping FK",
+        "homeGoals": "1",
+        "awayTeam": "Malmö FF"
+    },
+    {
+        "awayGoals": "0",
+        "homeTeam": "IFK Göteborg",
+        "homeGoals": "3",
+        "awayTeam": "AIK"
+    },
+    {
+        "awayGoals": "1",
+        "homeTeam": "Örebro",
+        "homeGoals": "1",
+        "awayTeam": "Kalmar FF"
+    },
+    {
+        "awayGoals": "1",
+        "homeTeam": "GIF Sundsvall",
+        "homeGoals": "3",
+        "awayTeam": "Falkenbergs FF"
+    },
+    {
+        "awayGoals": "0",
+        "homeTeam": "Östersund",
+        "homeGoals": "3",
+        "awayTeam": "Helsingborgs IF"
+    },
+    {
+        "awayGoals": "1",
+        "homeTeam": "AIK",
+        "homeGoals": "2",
+        "awayTeam": "Athletic Eskilstuna"
+    },
+    {
+        "awayGoals": "4",
+        "homeTeam": "IK Sirius FK",
+        "homeGoals": "2",
+        "awayTeam": "IFK Göteborg"
+    },
+    {
+        "awayGoals": "2",
+        "homeTeam": "Falkenbergs FF",
+        "homeGoals": "1",
+        "awayTeam": "Malmö FF"
+    },
+    {
+        "awayGoals": "1",
+        "homeTeam": "Kalmar FF",
+        "homeGoals": "1",
+        "awayTeam": "Östersund"
+    },
+    {
+        "awayGoals": "0",
+        "homeTeam": "BK Häcken",
+        "homeGoals": "1",
+        "awayTeam": "GIF Sundsvall"
+    },
+    {
+        "awayGoals": "3",
+        "homeTeam": "Örebro",
+        "homeGoals": "2",
+        "awayTeam": "Hammarby"
+    },
+    {
+        "awayGoals": "1",
+        "homeTeam": "Helsingborgs IF",
+        "homeGoals": "1",
+        "awayTeam": "Djurgården"
+    },
+    {
+        "awayGoals": "0",
+        "homeTeam": "IF Elfsborg",
+        "homeGoals": "0",
+        "awayTeam": "IFK Norrköping FK"
+    },
+    {
+        "awayGoals": "0",
+        "homeTeam": "Hammarby",
+        "homeGoals": "2",
+        "awayTeam": "IK Sirius FK"
+    },
+    {
+        "awayGoals": "1",
+        "homeTeam": "Östersund",
+        "homeGoals": "1",
+        "awayTeam": "BK Häcken"
+    },
+    {
+        "awayGoals": "0",
+        "homeTeam": "Kalmar FF",
+        "homeGoals": "1",
+        "awayTeam": "Helsingborgs IF"
+    },
+    {
+        "awayGoals": "0",
+        "homeTeam": "Athletic Eskilstuna",
+        "homeGoals": "0",
+        "awayTeam": "Falkenbergs FF"
+    },
+    {
+        "awayGoals": "2",
+        "homeTeam": "GIF Sundsvall",
+        "homeGoals": "1",
+        "awayTeam": "Örebro"
+    },
+    {
+        "awayGoals": "2",
+        "homeTeam": "Djurgården",
+        "homeGoals": "0",
+        "awayTeam": "AIK"
+    },
+    {
+        "awayGoals": "1",
+        "homeTeam": "Malmö FF",
+        "homeGoals": "4",
+        "awayTeam": "IF Elfsborg"
+    },
+    {
+        "awayGoals": "2",
+        "homeTeam": "IFK Norrköping FK",
+        "homeGoals": "1",
+        "awayTeam": "IFK Göteborg"
+    },
+    {
+        "awayGoals": "0",
+        "homeTeam": "Hammarby",
+        "homeGoals": "4",
+        "awayTeam": "Östersund"
+    },
+    {
+        "awayGoals": "3",
+        "homeTeam": "Helsingborgs IF",
+        "homeGoals": "1",
+        "awayTeam": "AIK"
+    },
+    {
+        "awayGoals": "0",
+        "homeTeam": "IF Elfsborg",
+        "homeGoals": "1",
+        "awayTeam": "Athletic Eskilstuna"
+    },
+    {
+        "awayGoals": "3",
+        "homeTeam": "Falkenbergs FF",
+        "homeGoals": "0",
+        "awayTeam": "Djurgården"
+    },
+    {
+        "awayGoals": "0",
+        "homeTeam": "BK Häcken",
+        "homeGoals": "1",
+        "awayTeam": "Kalmar FF"
+    },
+    {
+        "awayGoals": "0",
+        "homeTeam": "IK Sirius FK",
+        "homeGoals": "1",
+        "awayTeam": "GIF Sundsvall"
+    },
+    {
+        "awayGoals": "2",
+        "homeTeam": "Örebro",
+        "homeGoals": "1",
+        "awayTeam": "IFK Norrköping FK"
+    },
+    {
+        "awayGoals": "0",
+        "homeTeam": "IFK Göteborg",
+        "homeGoals": "0",
+        "awayTeam": "Malmö FF"
+    },
+    {
+        "awayGoals": "1",
+        "homeTeam": "Athletic Eskilstuna",
+        "homeGoals": "1",
+        "awayTeam": "Helsingborgs IF"
+    },
+    {
+        "awayGoals": "0",
+        "homeTeam": "Malmö FF",
+        "homeGoals": "1",
+        "awayTeam": "Kalmar FF"
+    },
+    {
+        "awayGoals": "4",
+        "homeTeam": "IK Sirius FK",
+        "homeGoals": "3",
+        "awayTeam": "BK Häcken"
+    },
+    {
+        "awayGoals": "0",
+        "homeTeam": "Djurgården",
+        "homeGoals": "2",
+        "awayTeam": "IF Elfsborg"
+    },
+    {
+        "awayGoals": "0",
+        "homeTeam": "IFK Göteborg",
+        "homeGoals": "0",
+        "awayTeam": "Hammarby"
+    },
+    {
+        "awayGoals": "0",
+        "homeTeam": "IFK Norrköping FK",
+        "homeGoals": "2",
+        "awayTeam": "GIF Sundsvall"
+    },
+    {
+        "awayGoals": "3",
+        "homeTeam": "Östersund",
+        "homeGoals": "1",
+        "awayTeam": "Örebro"
+    },
+    {
+        "awayGoals": "0",
+        "homeTeam": "AIK",
+        "homeGoals": "2",
+        "awayTeam": "Falkenbergs FF"
+    },
+    {
+        "awayGoals": "1",
+        "homeTeam": "GIF Sundsvall",
+        "homeGoals": "1",
+        "awayTeam": "AIK"
+    },
+    {
+        "awayGoals": "2",
+        "homeTeam": "BK Häcken",
+        "homeGoals": "1",
+        "awayTeam": "IFK Göteborg"
+    },
+    {
+        "awayGoals": "0",
+        "homeTeam": "Malmö FF",
+        "homeGoals": "5",
+        "awayTeam": "Athletic Eskilstuna"
+    },
+    {
+        "awayGoals": "1",
+        "homeTeam": "Helsingborgs IF",
+        "homeGoals": "1",
+        "awayTeam": "Falkenbergs FF"
+    },
+    {
+        "awayGoals": "1",
+        "homeTeam": "Djurgården",
+        "homeGoals": "3",
+        "awayTeam": "Östersund"
+    },
+    {
+        "awayGoals": "1",
+        "homeTeam": "Kalmar FF",
+        "homeGoals": "1",
+        "awayTeam": "IF Elfsborg"
+    },
+    {
+        "awayGoals": "2",
+        "homeTeam": "Hammarby",
+        "homeGoals": "2",
+        "awayTeam": "IFK Norrköping FK"
+    },
+    {
+        "awayGoals": "2",
+        "homeTeam": "Örebro",
+        "homeGoals": "0",
+        "awayTeam": "IK Sirius FK"
+    },
+    {
+        "awayGoals": "1",
+        "homeTeam": "IFK Göteborg",
+        "homeGoals": "0",
+        "awayTeam": "Örebro"
+    },
+    {
+        "awayGoals": "2",
+        "homeTeam": "IK Sirius FK",
+        "homeGoals": "0",
+        "awayTeam": "Djurgården"
+    },
+    {
+        "awayGoals": "0",
+        "homeTeam": "Falkenbergs FF",
+        "homeGoals": "0",
+        "awayTeam": "Kalmar FF"
+    },
+    {
+        "awayGoals": "1",
+        "homeTeam": "Östersund",
+        "homeGoals": "1",
+        "awayTeam": "GIF Sundsvall"
+    },
+    {
+        "awayGoals": "0",
+        "homeTeam": "IF Elfsborg",
+        "homeGoals": "0",
+        "awayTeam": "BK Häcken"
+    },
+    {
+        "awayGoals": "0",
+        "homeTeam": "AIK",
+        "homeGoals": "2",
+        "awayTeam": "Hammarby"
+    },
+    {
+        "awayGoals": "2",
+        "homeTeam": "Athletic Eskilstuna",
+        "homeGoals": "0",
+        "awayTeam": "IFK Norrköping FK"
+    },
+    {
+        "awayGoals": "1",
+        "homeTeam": "Helsingborgs IF",
+        "homeGoals": "0",
+        "awayTeam": "Malmö FF"
+    },
+    {
+        "awayGoals": "1",
+        "homeTeam": "Örebro",
+        "homeGoals": "0",
+        "awayTeam": "Helsingborgs IF"
+    },
+    {
+        "awayGoals": "0",
+        "homeTeam": "Östersund",
+        "homeGoals": "0",
+        "awayTeam": "IFK Göteborg"
+    },
+    {
+        "awayGoals": "1",
+        "homeTeam": "Falkenbergs FF",
+        "homeGoals": "2",
+        "awayTeam": "IF Elfsborg"
+    },
+    {
+        "awayGoals": "0",
+        "homeTeam": "GIF Sundsvall",
+        "homeGoals": "0",
+        "awayTeam": "Athletic Eskilstuna"
+    },
+    {
+        "awayGoals": "0",
+        "homeTeam": "AIK",
+        "homeGoals": "0",
+        "awayTeam": "Malmö FF"
+    },
+    {
+        "awayGoals": "1",
+        "homeTeam": "IFK Norrköping FK",
+        "homeGoals": "0",
+        "awayTeam": "IK Sirius FK"
+    },
+    {
+        "awayGoals": "0",
+        "homeTeam": "Djurgården",
+        "homeGoals": "2",
+        "awayTeam": "Kalmar FF"
+    },
+    {
+        "awayGoals": "0",
+        "homeTeam": "BK Häcken",
+        "homeGoals": "2",
+        "awayTeam": "Hammarby"
+    },
+    {
+        "awayGoals": "1",
+        "homeTeam": "Kalmar FF",
+        "homeGoals": "0",
+        "awayTeam": "AIK"
+    },
+    {
+        "awayGoals": "1",
+        "homeTeam": "IK Sirius FK",
+        "homeGoals": "1",
+        "awayTeam": "Östersund"
+    },
+    {
+        "awayGoals": "1",
+        "homeTeam": "IFK Göteborg",
+        "homeGoals": "2",
+        "awayTeam": "GIF Sundsvall"
+    },
+    {
+        "awayGoals": "1",
+        "homeTeam": "Malmö FF",
+        "homeGoals": "2",
+        "awayTeam": "Örebro"
+    },
+    {
+        "awayGoals": "1",
+        "homeTeam": "IFK Norrköping FK",
+        "homeGoals": "2",
+        "awayTeam": "BK Häcken"
+    },
+    {
+        "awayGoals": "2",
+        "homeTeam": "Hammarby",
+        "homeGoals": "6",
+        "awayTeam": "Falkenbergs FF"
+    },
+    {
+        "awayGoals": "1",
+        "homeTeam": "IF Elfsborg",
+        "homeGoals": "1",
+        "awayTeam": "Helsingborgs IF"
+    },
+    {
+        "awayGoals": "1",
+        "homeTeam": "Athletic Eskilstuna",
+        "homeGoals": "1",
+        "awayTeam": "Djurgården"
+    },
+    {
+        "awayGoals": "1",
+        "homeTeam": "Falkenbergs FF",
+        "homeGoals": "1",
+        "awayTeam": "IFK Göteborg"
+    },
+    {
+        "awayGoals": "0",
+        "homeTeam": "AIK",
+        "homeGoals": "3",
+        "awayTeam": "IF Elfsborg"
+    },
+    {
+        "awayGoals": "1",
+        "homeTeam": "Athletic Eskilstuna",
+        "homeGoals": "3",
+        "awayTeam": "Kalmar FF"
+    },
+    {
+        "awayGoals": "0",
+        "homeTeam": "BK Häcken",
+        "homeGoals": "3",
+        "awayTeam": "Örebro"
+    },
+    {
+        "awayGoals": "1",
+        "homeTeam": "Östersund",
+        "homeGoals": "2",
+        "awayTeam": "IFK Norrköping FK"
+    },
+    {
+        "awayGoals": "1",
+        "homeTeam": "Djurgården",
+        "homeGoals": "1",
+        "awayTeam": "Malmö FF"
+    },
+    {
+        "awayGoals": "0",
+        "homeTeam": "Helsingborgs IF",
+        "homeGoals": "1",
+        "awayTeam": "IK Sirius FK"
+    },
+    {
+        "awayGoals": "3",
+        "homeTeam": "GIF Sundsvall",
+        "homeGoals": "2",
+        "awayTeam": "Hammarby"
+    },
+    {
+        "awayGoals": "0",
+        "homeTeam": "Örebro",
+        "homeGoals": "4",
+        "awayTeam": "Falkenbergs FF"
+    },
+    {
+        "awayGoals": "0",
+        "homeTeam": "AIK",
+        "homeGoals": "2",
+        "awayTeam": "Helsingborgs IF"
+    },
+    {
+        "awayGoals": "1",
+        "homeTeam": "GIF Sundsvall",
+        "homeGoals": "0",
+        "awayTeam": "BK Häcken"
+    },
+    {
+        "awayGoals": "0",
+        "homeTeam": "IFK Göteborg",
+        "homeGoals": "1",
+        "awayTeam": "Athletic Eskilstuna"
+    },
+    {
+        "awayGoals": "1",
+        "homeTeam": "Malmö FF",
+        "homeGoals": "1",
+        "awayTeam": "IK Sirius FK"
+    },
+    {
+        "awayGoals": "0",
+        "homeTeam": "IFK Norrköping FK",
+        "homeGoals": "3",
+        "awayTeam": "Östersund"
+    },
+    {
+        "awayGoals": "1",
+        "homeTeam": "Kalmar FF",
+        "homeGoals": "0",
+        "awayTeam": "Djurgården"
+    },
+    {
+        "awayGoals": "2",
+        "homeTeam": "Hammarby",
+        "homeGoals": "5",
+        "awayTeam": "IF Elfsborg"
+    },
+    {
+        "awayGoals": "0",
+        "homeTeam": "Falkenbergs FF",
+        "homeGoals": "2",
+        "awayTeam": "GIF Sundsvall"
+    },
+    {
+        "awayGoals": "2",
+        "homeTeam": "IK Sirius FK",
+        "homeGoals": "0",
+        "awayTeam": "AIK"
+    },
+    {
+        "awayGoals": "6",
+        "homeTeam": "Athletic Eskilstuna",
+        "homeGoals": "1",
+        "awayTeam": "Hammarby"
+    },
+    {
+        "awayGoals": "0",
+        "homeTeam": "Östersund",
+        "homeGoals": "0",
+        "awayTeam": "Malmö FF"
+    },
+    {
+        "awayGoals": "0",
+        "homeTeam": "Djurgården",
+        "homeGoals": "2",
+        "awayTeam": "BK Häcken"
+    },
+    {
+        "awayGoals": "0",
+        "homeTeam": "IFK Göteborg",
+        "homeGoals": "0",
+        "awayTeam": "IFK Norrköping FK"
+    },
+    {
+        "awayGoals": "4",
+        "homeTeam": "Helsingborgs IF",
+        "homeGoals": "1",
+        "awayTeam": "Örebro"
+    },
+    {
+        "awayGoals": "1",
+        "homeTeam": "IF Elfsborg",
+        "homeGoals": "2",
+        "awayTeam": "Kalmar FF"
+    },
+    {
+        "awayGoals": "1",
+        "homeTeam": "Malmö FF",
+        "homeGoals": "2",
+        "awayTeam": "GIF Sundsvall"
+    },
+    {
+        "awayGoals": "2",
+        "homeTeam": "AIK",
+        "homeGoals": "0",
+        "awayTeam": "IFK Norrköping FK"
+    },
+    {
+        "awayGoals": "2",
+        "homeTeam": "Östersund",
+        "homeGoals": "1",
+        "awayTeam": "Athletic Eskilstuna"
+    },
+    {
+        "awayGoals": "1",
+        "homeTeam": "Falkenbergs FF",
+        "homeGoals": "1",
+        "awayTeam": "Helsingborgs IF"
+    },
+    {
+        "awayGoals": "2",
+        "homeTeam": "Kalmar FF",
+        "homeGoals": "2",
+        "awayTeam": "Hammarby"
+    },
+    {
+        "awayGoals": "1",
+        "homeTeam": "BK Häcken",
+        "homeGoals": "4",
+        "awayTeam": "IK Sirius FK"
+    },
+    {
+        "awayGoals": "1",
+        "homeTeam": "IF Elfsborg",
+        "homeGoals": "0",
+        "awayTeam": "Djurgården"
+    },
+    {
+        "awayGoals": "2",
+        "homeTeam": "Örebro",
+        "homeGoals": "2",
+        "awayTeam": "IFK Göteborg"
+    },
+    {
+        "awayGoals": "0",
+        "homeTeam": "Djurgården",
+        "homeGoals": "4",
+        "awayTeam": "IK Sirius FK"
+    },
+    {
+        "awayGoals": "1",
+        "homeTeam": "GIF Sundsvall",
+        "homeGoals": "1",
+        "awayTeam": "Östersund"
+    },
+    {
+        "awayGoals": "1",
+        "homeTeam": "BK Häcken",
+        "homeGoals": "1",
+        "awayTeam": "Malmö FF"
+    },
+    {
+        "awayGoals": "4",
+        "homeTeam": "Athletic Eskilstuna",
+        "homeGoals": "2",
+        "awayTeam": "AIK"
+    },
+    {
+        "awayGoals": "0",
+        "homeTeam": "IFK Norrköping FK",
+        "homeGoals": "2",
+        "awayTeam": "IF Elfsborg"
+    },
+    {
+        "awayGoals": "1",
+        "homeTeam": "Hammarby",
+        "homeGoals": "2",
+        "awayTeam": "Helsingborgs IF"
+    },
+    {
+        "awayGoals": "1",
+        "homeTeam": "Kalmar FF",
+        "homeGoals": "1",
+        "awayTeam": "Örebro"
+    },
+    {
+        "awayGoals": "1",
+        "homeTeam": "IFK Göteborg",
+        "homeGoals": "1",
+        "awayTeam": "Falkenbergs FF"
+    },
+    {
+        "awayGoals": "0",
+        "homeTeam": "Hammarby",
+        "homeGoals": "3",
+        "awayTeam": "GIF Sundsvall"
+    },
+    {
+        "awayGoals": "2",
+        "homeTeam": "Örebro",
+        "homeGoals": "1",
+        "awayTeam": "BK Häcken"
+    },
+    {
+        "awayGoals": "2",
+        "homeTeam": "AIK",
+        "homeGoals": "1",
+        "awayTeam": "Kalmar FF"
+    },
+    {
+        "awayGoals": "2",
+        "homeTeam": "IK Sirius FK",
+        "homeGoals": "0",
+        "awayTeam": "IFK Norrköping FK"
+    },
+    {
+        "awayGoals": "0",
+        "homeTeam": "Malmö FF",
+        "homeGoals": "5",
+        "awayTeam": "Falkenbergs FF"
+    },
+    {
+        "awayGoals": "2",
+        "homeTeam": "Helsingborgs IF",
+        "homeGoals": "1",
+        "awayTeam": "IFK Göteborg"
+    },
+    {
+        "awayGoals": "1",
+        "homeTeam": "IF Elfsborg",
+        "homeGoals": "4",
+        "awayTeam": "Östersund"
+    },
+    {
+        "awayGoals": "0",
+        "homeTeam": "Djurgården",
+        "homeGoals": "3",
+        "awayTeam": "Athletic Eskilstuna"
+    },
+    {
+        "awayGoals": "4",
+        "homeTeam": "IK Sirius FK",
+        "homeGoals": "3",
+        "awayTeam": "Örebro"
+    },
+    {
+        "awayGoals": "0",
+        "homeTeam": "IFK Norrköping FK",
+        "homeGoals": "5",
+        "awayTeam": "Helsingborgs IF"
+    },
+    {
+        "awayGoals": "3",
+        "homeTeam": "Östersund",
+        "homeGoals": "1",
+        "awayTeam": "AIK"
+    },
+    {
+        "awayGoals": "2",
+        "homeTeam": "Athletic Eskilstuna",
+        "homeGoals": "0",
+        "awayTeam": "BK Häcken"
+    },
+    {
+        "awayGoals": "1",
+        "homeTeam": "Malmö FF",
+        "homeGoals": "0",
+        "awayTeam": "Djurgården"
+    },
+    {
+        "awayGoals": "2",
+        "homeTeam": "GIF Sundsvall",
+        "homeGoals": "1",
+        "awayTeam": "IF Elfsborg"
+    },
+    {
+        "awayGoals": "2",
+        "homeTeam": "Falkenbergs FF",
+        "homeGoals": "0",
+        "awayTeam": "Hammarby"
+    },
+    {
+        "awayGoals": "0",
+        "homeTeam": "IFK Göteborg",
+        "homeGoals": "4",
+        "awayTeam": "Kalmar FF"
+    },
+    {
+        "awayGoals": "0",
+        "homeTeam": "Helsingborgs IF",
+        "homeGoals": "2",
+        "awayTeam": "Östersund"
+    },
+    {
+        "awayGoals": "1",
+        "homeTeam": "IF Elfsborg",
+        "homeGoals": "1",
+        "awayTeam": "IK Sirius FK"
+    },
+    {
+        "awayGoals": "1",
+        "homeTeam": "Örebro",
+        "homeGoals": "3",
+        "awayTeam": "Athletic Eskilstuna"
+    },
+    {
+        "awayGoals": "2",
+        "homeTeam": "GIF Sundsvall",
+        "homeGoals": "0",
+        "awayTeam": "IFK Göteborg"
+    },
+    {
+        "awayGoals": "5",
+        "homeTeam": "Kalmar FF",
+        "homeGoals": "0",
+        "awayTeam": "Malmö FF"
+    },
+    {
+        "awayGoals": "0",
+        "homeTeam": "AIK",
+        "homeGoals": "1",
+        "awayTeam": "Djurgården"
+    },
+    {
+        "awayGoals": "0",
+        "homeTeam": "IFK Norrköping FK",
+        "homeGoals": "2",
+        "awayTeam": "Hammarby"
+    },
+    {
+        "awayGoals": "1",
+        "homeTeam": "BK Häcken",
+        "homeGoals": "4",
+        "awayTeam": "Falkenbergs FF"
+    },
+    {
+        "awayGoals": "0",
+        "homeTeam": "IK Sirius FK",
+        "homeGoals": "2",
+        "awayTeam": "Falkenbergs FF"
+    },
+    {
+        "awayGoals": "0",
+        "homeTeam": "Örebro",
+        "homeGoals": "0",
+        "awayTeam": "GIF Sundsvall"
+    },
+    {
+        "awayGoals": "2",
+        "homeTeam": "Östersund",
+        "homeGoals": "1",
+        "awayTeam": "Kalmar FF"
+    },
+    {
+        "awayGoals": "2",
+        "homeTeam": "Hammarby",
+        "homeGoals": "6",
+        "awayTeam": "IFK Göteborg"
+    },
+    {
+        "awayGoals": "2",
+        "homeTeam": "BK Häcken",
+        "homeGoals": "1",
+        "awayTeam": "AIK"
+    },
+    {
+        "awayGoals": "0",
+        "homeTeam": "Malmö FF",
+        "homeGoals": "1",
+        "awayTeam": "IFK Norrköping FK"
+    },
+    {
+        "awayGoals": "0",
+        "homeTeam": "Djurgården",
+        "homeGoals": "2",
+        "awayTeam": "Helsingborgs IF"
+    },
+    {
+        "awayGoals": "2",
+        "homeTeam": "Athletic Eskilstuna",
+        "homeGoals": "2",
+        "awayTeam": "IF Elfsborg"
+    },
+    {
+        "awayGoals": "4",
+        "homeTeam": "GIF Sundsvall",
+        "homeGoals": "1",
+        "awayTeam": "Djurgården"
+    },
+    {
+        "awayGoals": "0",
+        "homeTeam": "Falkenbergs FF",
+        "homeGoals": "1",
+        "awayTeam": "Östersund"
+    },
+    {
+        "awayGoals": "0",
+        "homeTeam": "IFK Norrköping FK",
+        "homeGoals": "3",
+        "awayTeam": "Örebro"
+    },
+    {
+        "awayGoals": "1",
+        "homeTeam": "Kalmar FF",
+        "homeGoals": "1",
+        "awayTeam": "BK Häcken"
+    },
+    {
+        "awayGoals": "1",
+        "homeTeam": "IFK Göteborg",
+        "homeGoals": "2",
+        "awayTeam": "IK Sirius FK"
+    },
+    {
+        "awayGoals": "1",
+        "homeTeam": "Hammarby",
+        "homeGoals": "2",
+        "awayTeam": "AIK"
+    },
+    {
+        "awayGoals": "1",
+        "homeTeam": "Helsingborgs IF",
+        "homeGoals": "2",
+        "awayTeam": "Athletic Eskilstuna"
+    },
+    {
+        "awayGoals": "3",
+        "homeTeam": "IF Elfsborg",
+        "homeGoals": "0",
+        "awayTeam": "Malmö FF"
+    },
+    {
+        "awayGoals": "2",
+        "homeTeam": "Kalmar FF",
+        "homeGoals": "0",
+        "awayTeam": "GIF Sundsvall"
+    },
+    {
+        "awayGoals": "0",
+        "homeTeam": "Djurgården",
+        "homeGoals": "1",
+        "awayTeam": "Falkenbergs FF"
+    },
+    {
+        "awayGoals": "0",
+        "homeTeam": "Örebro",
+        "homeGoals": "2",
+        "awayTeam": "Östersund"
+    },
+    {
+        "awayGoals": "2",
+        "homeTeam": "BK Häcken",
+        "homeGoals": "1",
+        "awayTeam": "IF Elfsborg"
+    },
+    {
+        "awayGoals": "0",
+        "homeTeam": "AIK",
+        "homeGoals": "1",
+        "awayTeam": "IFK Göteborg"
+    },
+    {
+        "awayGoals": "3",
+        "homeTeam": "IK Sirius FK",
+        "homeGoals": "1",
+        "awayTeam": "Hammarby"
+    },
+    {
+        "awayGoals": "0",
+        "homeTeam": "IFK Norrköping FK",
+        "homeGoals": "4",
+        "awayTeam": "Athletic Eskilstuna"
+    },
+    {
+        "awayGoals": "0",
+        "homeTeam": "Malmö FF",
+        "homeGoals": "3",
+        "awayTeam": "Helsingborgs IF"
+    },
+    {
+        "awayGoals": "0",
+        "homeTeam": "IFK Göteborg",
+        "homeGoals": "0",
+        "awayTeam": "BK Häcken"
+    },
+    {
+        "awayGoals": "1",
+        "homeTeam": "IF Elfsborg",
+        "homeGoals": "1",
+        "awayTeam": "AIK"
+    },
+    {
+        "awayGoals": "1",
+        "homeTeam": "GIF Sundsvall",
+        "homeGoals": "2",
+        "awayTeam": "IK Sirius FK"
+    },
+    {
+        "awayGoals": "2",
+        "homeTeam": "Falkenbergs FF",
+        "homeGoals": "0",
+        "awayTeam": "IFK Norrköping FK"
+    },
+    {
+        "awayGoals": "1",
+        "homeTeam": "Athletic Eskilstuna",
+        "homeGoals": "0",
+        "awayTeam": "Malmö FF"
+    },
+    {
+        "awayGoals": "0",
+        "homeTeam": "Helsingborgs IF",
+        "homeGoals": "2",
+        "awayTeam": "Kalmar FF"
+    },
+    {
+        "awayGoals": "2",
+        "homeTeam": "Östersund",
+        "homeGoals": "1",
+        "awayTeam": "Djurgården"
+    },
+    {
+        "awayGoals": "1",
+        "homeTeam": "Hammarby",
+        "homeGoals": "5",
+        "awayTeam": "Örebro"
+    },
+    {
+        "awayGoals": "4",
+        "homeTeam": "GIF Sundsvall",
+        "homeGoals": "4",
+        "awayTeam": "IFK Norrköping FK"
+    },
+    {
+        "awayGoals": "0",
+        "homeTeam": "AIK",
+        "homeGoals": "2",
+        "awayTeam": "Örebro"
+    },
+    {
+        "awayGoals": "1",
+        "homeTeam": "IK Sirius FK",
+        "homeGoals": "2",
+        "awayTeam": "Helsingborgs IF"
+    },
+    {
+        "awayGoals": "0",
+        "homeTeam": "Kalmar FF",
+        "homeGoals": "0",
+        "awayTeam": "Athletic Eskilstuna"
+    },
+    {
+        "awayGoals": "2",
+        "homeTeam": "Djurgården",
+        "homeGoals": "1",
+        "awayTeam": "Hammarby"
+    },
+    {
+        "awayGoals": "1",
+        "homeTeam": "BK Häcken",
+        "homeGoals": "1",
+        "awayTeam": "Östersund"
+    },
+    {
+        "awayGoals": "0",
+        "homeTeam": "IF Elfsborg",
+        "homeGoals": "4",
+        "awayTeam": "Falkenbergs FF"
+    },
+    {
+        "awayGoals": "0",
+        "homeTeam": "Malmö FF",
+        "homeGoals": "1",
+        "awayTeam": "IFK Göteborg"
+    },
+    {
+        "awayGoals": "0",
+        "homeTeam": "Athletic Eskilstuna",
+        "homeGoals": "1",
+        "awayTeam": "GIF Sundsvall"
+    },
+    {
+        "awayGoals": "2",
+        "homeTeam": "Helsingborgs IF",
+        "homeGoals": "0",
+        "awayTeam": "BK Häcken"
+    },
+    {
+        "awayGoals": "0",
+        "homeTeam": "Östersund",
+        "homeGoals": "2",
+        "awayTeam": "IK Sirius FK"
+    },
+    {
+        "awayGoals": "5",
+        "homeTeam": "Falkenbergs FF",
+        "homeGoals": "1",
+        "awayTeam": "AIK"
+    },
+    {
+        "awayGoals": "0",
+        "homeTeam": "Hammarby",
+        "homeGoals": "2",
+        "awayTeam": "Malmö FF"
+    },
+    {
+        "awayGoals": "0",
+        "homeTeam": "IFK Norrköping FK",
+        "homeGoals": "1",
+        "awayTeam": "Kalmar FF"
+    },
+    {
+        "awayGoals": "2",
+        "homeTeam": "Örebro",
+        "homeGoals": "2",
+        "awayTeam": "IF Elfsborg"
+    },
+    {
+        "awayGoals": "1",
+        "homeTeam": "IFK Göteborg",
+        "homeGoals": "0",
+        "awayTeam": "Djurgården"
+    },
+    {
+        "awayGoals": "2",
+        "homeTeam": "GIF Sundsvall",
+        "homeGoals": "1",
+        "awayTeam": "Helsingborgs IF"
+    },
+    {
+        "awayGoals": "3",
+        "homeTeam": "Kalmar FF",
+        "homeGoals": "2",
+        "awayTeam": "Falkenbergs FF"
+    },
+    {
+        "awayGoals": "1",
+        "homeTeam": "BK Häcken",
+        "homeGoals": "0",
+        "awayTeam": "IFK Norrköping FK"
+    },
+    {
+        "awayGoals": "0",
+        "homeTeam": "Athletic Eskilstuna",
+        "homeGoals": "0",
+        "awayTeam": "IK Sirius FK"
+    },
+    {
+        "awayGoals": "2",
+        "homeTeam": "Östersund",
+        "homeGoals": "1",
+        "awayTeam": "Hammarby"
+    },
+    {
+        "awayGoals": "0",
+        "homeTeam": "IF Elfsborg",
+        "homeGoals": "2",
+        "awayTeam": "IFK Göteborg"
+    },
+    {
+        "awayGoals": "0",
+        "homeTeam": "Malmö FF",
+        "homeGoals": "2",
+        "awayTeam": "AIK"
+    },
+    {
+        "awayGoals": "0",
+        "homeTeam": "Djurgården",
+        "homeGoals": "3",
+        "awayTeam": "Örebro"
+    },
+    {
+        "awayGoals": "2",
+        "homeTeam": "Helsingborgs IF",
+        "homeGoals": "1",
+        "awayTeam": "IF Elfsborg"
+    },
+    {
+        "awayGoals": "5",
+        "homeTeam": "Örebro",
+        "homeGoals": "0",
+        "awayTeam": "Malmö FF"
+    },
+    {
+        "awayGoals": "0",
+        "homeTeam": "Falkenbergs FF",
+        "homeGoals": "1",
+        "awayTeam": "Athletic Eskilstuna"
+    },
+    {
+        "awayGoals": "2",
+        "homeTeam": "IFK Norrköping FK",
+        "homeGoals": "2",
+        "awayTeam": "Djurgården"
+    },
+    {
+        "awayGoals": "1",
+        "homeTeam": "Hammarby",
+        "homeGoals": "4",
+        "awayTeam": "BK Häcken"
+    },
+    {
+        "awayGoals": "1",
+        "homeTeam": "IFK Göteborg",
+        "homeGoals": "7",
+        "awayTeam": "Östersund"
+    },
+    {
+        "awayGoals": "1",
+        "homeTeam": "AIK",
+        "homeGoals": "2",
+        "awayTeam": "GIF Sundsvall"
+    },
+    {
+        "awayGoals": "0",
+        "homeTeam": "IK Sirius FK",
+        "homeGoals": "3",
+        "awayTeam": "Kalmar FF"
+    }
+]
