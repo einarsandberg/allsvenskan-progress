@@ -57,8 +57,8 @@
             "singleline": {
               "delimiter": "semi",
               "requireLast": true
-            },
-          }]
-
+            }
+          }],
+          "@typescript-eslint/no-unused-vars": "error"
     }
 }
