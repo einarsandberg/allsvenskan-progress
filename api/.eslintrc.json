@@ -22,7 +22,7 @@
     "rules": {
         "indent": [
             "error",
-            4
+            2,
         ],
         "linebreak-style": [
             "error",
@@ -52,12 +52,13 @@
         "@typescript-eslint/member-delimiter-style": ["error", {
             "multiline": {
               "delimiter": "semi",
-              "requireLast": true
+              "requireLast": true,
             },
             "singleline": {
               "delimiter": "semi",
               "requireLast": true
-            }
+            },
           }]
+
     }
 }
