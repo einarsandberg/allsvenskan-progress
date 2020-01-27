@@ -1,0 +1,7 @@
+.team {
+    padding: 8px 12px;
+}
+
+.team:nth-child(odd) {
+    background: #e0f7ff;
+}
