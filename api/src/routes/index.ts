@@ -3,10 +3,10 @@ import MatchesRouter from './matches';
 // Init router and path
 const router = Router();
 
-router.get('/', function(req, res, next) {
+router.get('/', function(req, res) {
     res.send('API is working properly');
 });
 
-router.use('/matches', MatchesRouter);
+router.use('/rounds', MatchesRouter);
 // Export the base-router
 export default router;
