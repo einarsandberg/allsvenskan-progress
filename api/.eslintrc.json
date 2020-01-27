@@ -22,7 +22,8 @@
     "rules": {
         "indent": [
             "error",
-            2,
+            4,
+            {"SwitchCase": 4}
         ],
         "linebreak-style": [
             "error",
@@ -38,7 +39,7 @@
         ],
         "max-len": [
             "error",
-            120,
+            140,
             2
         ],
         "no-multiple-empty-lines": "error",
@@ -52,7 +53,7 @@
         "@typescript-eslint/member-delimiter-style": ["error", {
             "multiline": {
               "delimiter": "semi",
-              "requireLast": true,
+              "requireLast": true
             },
             "singleline": {
               "delimiter": "semi",
