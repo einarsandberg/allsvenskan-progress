@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { Round } from './App';
 import LeagueTableRow, { TeamStats, Team } from './LeagueTableRow';
 import './LeagueTable.css';
@@ -9,6 +9,15 @@ type LeagueTableProps = {
 
 const LeagueTable: React.FC<LeagueTableProps> = (props: LeagueTableProps) => {
     const teamNames = Object.keys(props.rounds[0]);
+    const [selectedTeams, setSelectedTeams] = useState<String[]>([]);
+
+    const updateSelectedTeams = (teamName: string): void => {
+        setSelectedTeams((prevSelectedTeams) => {
+            return prevSelectedTeams.indexOf(teamName) !==  -1 ? prevSelectedTeams.filter((name) => name !== teamName)
+                : [...prevSelectedTeams, teamName];
+        });
+    };
+    
     const tableRows = teamNames
         .map((name): Team => {
             const stats = getCurrentStats(name, props.rounds, props.currentRoundNum);
@@ -32,6 +41,8 @@ const LeagueTable: React.FC<LeagueTableProps> = (props: LeagueTableProps) => {
                     name={team.name}
                     stats={team.stats}
                     position={i + 1}
+                    isSelected={selectedTeams.length === 0 || selectedTeams.indexOf(team.name) !== -1}
+                    updateSelectedTeamsCallback={updateSelectedTeams}
                 />
             );
         });

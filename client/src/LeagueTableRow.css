@@ -5,3 +5,7 @@
 .team:nth-child(odd) {
     background: #e0f7ff;
 }
+
+.league-table-row.greyed-out {
+    color: lightgrey;
+}

@@ -2,8 +2,9 @@ import React from 'react';
 import './LeagueTableRow.css';
 export interface LeagueTableRowProps extends Team {    
     position: number;
+    isSelected: boolean;
+    updateSelectedTeamsCallback: (teamName: string) => void;
 }
-
 export interface Team {
     name: string;
     stats: TeamStats;
@@ -19,7 +20,10 @@ export interface TeamStats {
 
 const LeagueTableRow: React.FC<LeagueTableRowProps> = (props: LeagueTableRowProps) => {
     return (
-        <tr className="league-table-row">
+        <tr 
+            className={`league-table-row${!props.isSelected ? ' greyed-out' : ''}`} 
+            onClick={(): void => props.updateSelectedTeamsCallback(props.name)}
+        >
             <td>{props.position}. </td>
             <td>{props.name}</td>
             <td>{props.stats.matchesPlayed}</td>
