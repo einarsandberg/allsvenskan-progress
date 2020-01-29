@@ -22,10 +22,12 @@ const LeagueTableRow: React.FC<LeagueTableRowProps> = (props: LeagueTableRowProp
     return (
         <tr 
             className={`league-table-row${!props.isSelected ? ' greyed-out' : ''}`} 
-            onClick={(): void => props.updateSelectedTeamsCallback(props.name)}
         >
             <td>{props.position}. </td>
-            <td>{props.name}</td>
+            <td 
+                className="league-table-row-name-col"
+                onClick={(): void => props.updateSelectedTeamsCallback(props.name)}>{props.name}
+            </td>
             <td>{props.stats.matchesPlayed}</td>
             <td>{props.stats.goalsScored}</td>
             <td>{props.stats.goalsConceded}</td>
