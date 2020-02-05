@@ -72,7 +72,7 @@ class MatchesController {
     private static getPreviousRoundStandings(team: string, previousRoundStats: TeamStats[]): TeamStats {
         return previousRoundStats.find((prev) => prev.team === team)!;
     }
-    
+
     private static mergeStandings(a: TeamStats, b: TeamStats): TeamStats {
         return {
             team: a.team,
@@ -93,14 +93,19 @@ class MatchesController {
         return 1;
     }
 
-    private  static compareStandings(a: TeamStats, b: TeamStats): number {
-        if (a.points < b.points) {
-            return 1;
-        }
-        else if (a.points > b.points) {
-            return -1;
-        }
+    private static compareStandings(a: TeamStats, b: TeamStats): number {
+
+        if (a.points > b.points) return -1;
+        if (a.points < b.points) return 1;
+
+        if (a.goalDifference > b.goalDifference) return -1;
+        if (a.goalDifference < b.goalDifference) return 1;
+
+        if (a.goalsFor > b.goalsFor) return -1;
+        if (a.goalsFor < b.goalsFor) return 1;
+
         return 0;
+        
     }
 }
 
