@@ -1,5 +1,5 @@
 import { Router } from 'express';
-import MatchesRouter from './matches';
+import MatchesRouter from './matchesRouter';
 // Init router and path
 const router = Router();
 

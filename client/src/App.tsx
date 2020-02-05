@@ -3,14 +3,10 @@ import './App.css';
 import { useEffect } from 'react';
 import LeagueTable from './LeagueTable';
 import RoundSlider from './RoundSlider';
-export interface TeamRoundStats {
-    goalsFor: number;
-    goalsAgainst: number;
-}
+import { TeamStats } from './LeagueTableRow';
 
-export interface Round {
-    [key: string]: TeamRoundStats;
-}
+export interface Round extends Array<TeamStats>{}
+
 const App: React.FC = () => {
     const [rounds, setRounds] = useState<Round[]>([]);
     const [currentRoundNum, setCurrentRoundNum] = useState<number>(0);

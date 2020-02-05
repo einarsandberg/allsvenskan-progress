@@ -1,21 +1,19 @@
 import React from 'react';
 import './LeagueTableRow.css';
-export interface LeagueTableRowProps extends Team {    
+export interface LeagueTableRowProps {    
     position: number;
     isSelected: boolean;
     updateSelectedTeamsCallback: (teamName: string) => void;
-}
-export interface Team {
-    name: string;
     stats: TeamStats;
+    currentRoundNum: number;
 }
 
 export interface TeamStats {
-    points: number;
-    matchesPlayed: number;
-    goalsScored: number;
-    goalsConceded: number;
+    team: string;
+    goalsFor: number;
+    goalsAgainst: number;
     goalDifference: number;
+    points: number;
 }
 
 const LeagueTableRow: React.FC<LeagueTableRowProps> = (props: LeagueTableRowProps) => {
@@ -26,11 +24,11 @@ const LeagueTableRow: React.FC<LeagueTableRowProps> = (props: LeagueTableRowProp
             <td>{props.position}. </td>
             <td 
                 className="league-table-row-name-col"
-                onClick={(): void => props.updateSelectedTeamsCallback(props.name)}>{props.name}
+                onClick={(): void => props.updateSelectedTeamsCallback(props.stats.team)}>{props.stats.team}
             </td>
-            <td>{props.stats.matchesPlayed}</td>
-            <td>{props.stats.goalsScored}</td>
-            <td>{props.stats.goalsConceded}</td>
+            <td>{props.currentRoundNum + 1}</td>
+            <td>{props.stats.goalsFor}</td>
+            <td>{props.stats.goalsAgainst}</td>
             <td>{props.stats.goalDifference}</td>
             <td>{props.stats.points}</td>
         </tr>
