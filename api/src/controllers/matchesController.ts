@@ -20,7 +20,7 @@ class MatchesController {
         while (matches.length > 0) {
             // Rounds consist of 8 matches, so get the next 8 until there's no left.
             const matchesInRound = matches.splice(0, 8);
-            let roundResults: TeamStats[] = [];
+            const roundResults: TeamStats[] = [];
             matchesInRound.forEach((match) => {
                 let homeTeam, awayTeam;
                 // If it's not the initial round, we need to include previous results in calculation.
@@ -51,6 +51,7 @@ class MatchesController {
 
         return [nextStandingHomeTeam, nextStandingAwayTeam];
     }
+
     // Get round stats for a given team
     private static createRoundStandings(team: string, match: Match): TeamStats {
         const [goalsFor, goalsAgainst] = this.getTeamGoals(match, team);
